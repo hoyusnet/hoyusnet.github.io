@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Pelis en Vivo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Despicable_Me_4_logo.svg/220px-Despicable_Me_4_logo.svg.png",Mi Villano Favorito 4
-http://127.0.0.1:11470/4849349cb0f84a37c9e7c05195a0e7691520ce98/0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/571px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="Aire",America
 http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/60592.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_9_(Buenos_Aires)#/media/Archivo:Canal_9_2015.png"group-title="Aire",elnueve
