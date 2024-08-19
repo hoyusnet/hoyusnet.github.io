@@ -1227,3 +1227,261 @@ https://jmp2.uk/SamsungTVPlus/ESBC2700005EE.m3u8
 https://jmp2.uk/SamsungTVPlus/ESAJ4500020V7.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png"group-title="Samsung TV - Películas",Acción - Rakuten TV
 https://jmp2.uk/SamsungTVPlus/ESAJ45000181E.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Hbo_blanco.png"group-title="Premium",HBO HD
+https://bgtv.xyz/play/2-802.php?idch=654
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png"group-title="Premium",HBO2
+http://45.5.117.182:8000/play/a0eP/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png"group-title="Premium",HBO FAMILY
+http://170.82.37.21:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png"group-title="Premium",HBO MUNDI
+https://bgtv.xyz/play/2-802.php?idch=841.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png"group-title="Premium",HBOPLUS
+http://170.82.37.21:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png"group-title="Premium",HBO POP
+https://bgtv.xyz/play/2-802.php?idch=977.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097951981-HBO-signature-pequenio-b.png"group-title="Premium",HBO SIGNATURE
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W2VdX9dELyeJLtIb4uXCdtw/m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png"group-title="Premium",HBO XTREME
+http://170.82.37.21:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/731381553.png"group-title="Premium",UNIVERSAL CINEMA
+https://bgtv.xyz/play/2-802.php?idch=902.m3u8
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/172050409.png"group-title="Premium",UNIVERSAL COMEDY
+https://bgtv.xyz/play/2-802.php?idch=903.m3u8
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/780277389.png"group-title="Premium",UNIVERSAL CRIME
+https://bgtv.xyz/play/2-802.php?idch=904.m3u8
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/398064723.png"group-title="Premium",UNIVERSAL PREMIER
+https://bgtv.xyz/play/2-802.php?idch=901.m3u8
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/files/channels/120254749.png"group-title="Premium",UNIVERSAL REALITY
+https://bgtv.xyz/play/2-802.php?idch=905.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png"group-title="Auto",DISCOVERY TURBO
+https://bgtv.xyz/play/2-802.php?idch=28.m3u8
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_sci-white.png"group-title="Cultura",DISCOVERY SCIENCE
+https://bgtv.xyz/play/2-802.php?idch=26.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png"group-title="Cultura",DISCOVERY H&H
+https://bgtv.xyz/play/2-802.php?idch=24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png"group-title="Cultura",DISCOVERY WORLD
+https://bgtv.xyz/play/2-802.php?idch=187.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png"group-title="Cultura",DISCOVERY THEATER
+https://bgtv.xyz/play/2-802.php?idch=27.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png"group-title="Cultura",ANIMALPLANET
+https://bgtv.xyz/play/2-802.php?idch=3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeo/Images/16c2ba84acf1e35302d1189a30433414/284x160-Q75_16c2ba84acf1e35302d1189a30433414.png"group-title="Cultura",NAT GEO
+https://bgtv.xyz/play/2-802.php?idch=76.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png"group-title="Cultura",HISTORY MX
+https://bgtv.xyz/play/2-802.php?idch=718.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png"group-title="Cultura",HISTORY PREMIUM
+https://bgtv.xyz/play/2-802.php?idch=67.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"group-title="Cultura",H2
+https://bgtv.xyz/play/2-802.php?idch=61.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1.png"group-title="Cultura",DISCOVERY CHANNEL
+https://bgtv.xyz/play/2-802.php?idch=22.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"group-title="Cultura",DISCOVERY ID
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png"group-title="Cine y Series",DISTRITO COMEDIA
+https://bgtv.xyz/play/2-802.php?idch=32.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png"group-title="Cine y Series",COMEDY CENTRAL
+https://bgtv.xyz/play/2-802.php?idch=719.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"group-title="Cine y Series",A3 SERIES
+https://bgtv.xyz/play/2-802.php?idch=444.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="Cine y Series",SONY CHANNEL
+https://bgtv.xyz/play/2-802.php?idch=498.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png"group-title="Cine y Series",UNIVERSAL HD
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg"group-title="Cine y Series",STUDIO UNIVERSAL
+https://bgtv.xyz/play/2-802.php?idch=84.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png"group-title="Cine y Series",TNT
+https://bgtv.xyz/play/2-802.php?idch=500.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TNT_Serie.svg/649px-TNT_Serie.svg.png"group-title="Cine y Series",TNT SERIES
+https://bgtv.xyz/play/2-802.php?idch=90.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1024px-SpaceLogo.svg.png"group-title="Cine y Series",SPACE
+http://200.59.188.3:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1280px-A%26E-Network-Logo.svg.png"group-title="Cine y Series",A&E
+https://bgtv.xyz/play/2-802.php?idch=474.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png"group-title="Cine y Series",AMC
+https://bgtv.xyz/play/2-802.php?idch=475.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-0-1536x1536.png"group-title="Cine y Series",PARAMOUNT
+https://bgtv.xyz/play/2-802.php?idch=200.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png"group-title="Cine y Series",CINEMAX
+https://bgtv.xyz/play/2-802.php?idch=20.m3u8
+#EXTINF:-1 tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png"group-title="Cine y Series",CINECANAL
+https://bgtv.xyz/play/2-802.php?idch=18.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png"group-title="Cine y Series",TBS
+https://bgtv.xyz/play/2-802.php?idch=171.m3u8
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/max/tc7455fdcb-tcm-logo-file-turner-classic-movies-tcm-latin-america-2015-logo-png.png"group-title="Cine y Series",TCM
+https://bgtv.xyz/play/2-802.php?idch=85.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="Cine y Series",GOLDEN
+https://bgtv.xyz/play/2-802.php?idch=57.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8yad3yUi75w/W6lpOlyQASI/AAAAAAAAAI4/jL-5Dh27kwgFNYlTyTXYYfeP7kBamdZkgCPcBGAYYCw/s1600/goldenedge.png"group-title="Cine y Series",GOLDEN EDGE
+https://bgtv.xyz/play/2-802.php?idch=58.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/gold"group-title="Cine y Series",GOLDEN PLUS
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3W5hv3okbi3mK06D9VrZzXnU/m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png"group-title="Cine y Series",GOLDEN PREMIER
+https://zonamovie.live:8443/play/1HVxDH_oJ7NU5Jvo75a3Wztm0hiLEGuxyFINeTwrDAg/m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png"group-title="Cine y Series",DE PELICULA
+https://bgtv.xyz/play/2-802.php?idch=21.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRMdFzHOZYEQAeqniX4n7Xn1cBQJKNMJoJiQ&usqp=CAU"group-title="Cine y Series",DE PELICULA PLUS
+https://bgtv.xyz/play/2-802.php?idch=1544.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TLHIT_logo.png/245px-TLHIT_logo.png"group-title="Música",TELEHIT
+https://bgtv.xyz/play/2-802.php?idch=91.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_09/large.1611336780_12.1-XHSAWTeleritmo.png.29062bd50ea09887c6c4e42cecfff260.png"group-title="Música",TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png"group-title="Música",Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png"group-title="Música",RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.clarosports.com/clarosports/2024/07/cs02-mex-135006-768x432.png"group-title="Deportes",CLARO SPORTS2
+https://dai.google.com/linear/hls/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"group-title="Deportes",Afizzionados
+https://bgtv.xyz/play/2-802.php?idch=939.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png"group-title="Deportes",Afizzionados HD
+https://bgtv.xyz/play/2-802.php?idch=878.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png"group-title="Deportes",Al Jazeera
+https://bgtv.xyz/play/2-802.php?idch=668.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png"group-title="Deportes",AyM Sports
+https://bgtv.xyz/play/2-802.php?idch=148.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"group-title="Deportes",BeinSports
+https://bgtv.xyz/play/2-802.php?idch=753.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png"group-title="Deportes",BeinSports HD
+https://bgtv.xyz/play/2-802.php?idch=9.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"group-title="Deportes",BeinSports Ñ
+https://bgtv.xyz/play/2-802.php?idch=761.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png"group-title="Deportes",BeinSports Ñ HD
+https://bgtv.xyz/play/2-802.php?idch=376.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbs.png"group-title="Deportes",CBS HD
+https://bgtv.xyz/play/2-802.php?idch=932.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png"group-title="Deportes",CDF Premium (TNT Sports Chile)
+https://bgtv.xyz/play/2-802.php?idch=318.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png"group-title="Deportes",CDF Premium HD (TNT Sports Chile)
+https://bgtv.xyz/play/2-802.php?idch=725.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png"group-title="Deportes",CDN Sportsmax
+https://bgtv.xyz/play/2-802.php?idch=206.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png"group-title="Deportes",CDO
+https://bgtv.xyz/play/2-802.php?idch=513.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png"group-title="Deportes",CDO Premium
+https://bgtv.xyz/play/2-802.php?idch=401.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png"group-title="Deportes",Claro Sports
+https://bgtv.xyz/play/2-802.php?idch=328.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"group-title="Deportes",DSports
+https://bgtv.xyz/play/2-802.php?idch=259.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"group-title="Deportes",DSports 2
+https://bgtv.xyz/play/2-802.php?idch=667.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"group-title="Deportes",DSports 2 HD
+https://bgtv.xyz/play/2-802.php?idch=975.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png"group-title="Deportes",DSports 2 Sur HD
+https://bgtv.xyz/play/2-802.php?idch=978.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png"group-title="Deportes",DSports HD
+https://bgtv.xyz/play/2-802.php?idch=974.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="Deportes",ESPN
+https://bgtv.xyz/play/2-802.php?idch=34.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="Deportes",ESPN 2
+https://bgtv.xyz/play/2-802.php?idch=35.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="Deportes",ESPN 2 HD
+https://bgtv.xyz/play/2-802.php?idch=484.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"group-title="Deportes",ESPN 2 MX
+https://bgtv.xyz/play/2-802.php?idch=531.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png"group-title="Deportes",ESPN 3 HD
+https://bgtv.xyz/play/2-802.php?idch=485.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="Deportes",ESPN HD
+https://bgtv.xyz/play/2-802.php?idch=486.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"group-title="Deportes",ESPN MX
+https://bgtv.xyz/play/2-802.php?idch=530.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"group-title="Deportes",ESPN Plus
+https://bgtv.xyz/play/2-802.php?idch=37.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png"group-title="Deportes",ESPN Plus HD
+https://bgtv.xyz/play/2-802.php?idch=487.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png"group-title="Deportes",ESPN Premium HD
+https://bgtv.xyz/play/2-802.php?idch=952.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png"group-title="Deportes",Formula 1 TV (F1)
+https://bgtv.xyz/play/2-802.php?idch=192.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports
+https://bgtv.xyz/play/2-802.php?idch=52.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes",Fox Sports 2
+https://bgtv.xyz/play/2-802.php?idch=53.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes",Fox Sports 2 Argentina HD
+https://bgtv.xyz/play/2-802.php?idch=770.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes",Fox Sports 2 HD
+https://bgtv.xyz/play/2-802.php?idch=494.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes",Fox Sports 2 MX
+https://bgtv.xyz/play/2-802.php?idch=528.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="Deportes",Fox Sports 3 HD
+https://bgtv.xyz/play/2-802.php?idch=839.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="Deportes",Fox Sports 3 MX
+https://bgtv.xyz/play/2-802.php?idch=54.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports Argentina HD
+https://bgtv.xyz/play/2-802.php?idch=769.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports HD
+https://bgtv.xyz/play/2-802.php?idch=493.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports MX
+https://bgtv.xyz/play/2-802.php?idch=527.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports MX Sur
+https://bgtv.xyz/play/2-802.php?idch=748.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"group-title="Deportes",Fox Sports Premium
+https://bgtv.xyz/play/2-802.php?idch=512.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png"group-title="Deportes",Fox Sports Premium HD
+https://bgtv.xyz/play/2-802.php?idch=658.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png"group-title="Deportes",Fox Sports Sur
+https://bgtv.xyz/play/2-802.php?idch=402.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png"group-title="Deportes",Fox Sports Sur 2
+https://bgtv.xyz/play/2-802.php?idch=410.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png"group-title="Deportes",Fox Sports Sur 3
+https://bgtv.xyz/play/2-802.php?idch=511.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png"group-title="Deportes",FS1 USA HD
+https://bgtv.xyz/play/2-802.php?idch=936.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs2.png"group-title="Deportes",FS2 USA HD
+https://bgtv.xyz/play/2-802.php?idch=937.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png"group-title="Deportes",Gol Peru
+https://bgtv.xyz/play/2-802.php?idch=686.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"group-title="Deportes",Gol TV
+https://bgtv.xyz/play/2-802.php?idch=287.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png"group-title="Deportes",Gol TV HD
+https://bgtv.xyz/play/2-802.php?idch=514.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golfchannel.png"group-title="Deportes",Golf Channel HD
+https://bgtv.xyz/play/2-802.php?idch=964.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png"group-title="Deportes",NBA
+https://bgtv.xyz/play/2-802.php?idch=838.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbcgolf.png"group-title="Deportes",NBC Golf
+https://bgtv.xyz/play/2-802.php?idch=947.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png"group-title="Deportes",SKY Sports MX HD
+https://bgtv.xyz/play/2-802.php?idch=989.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/skysports.png"group-title="Deportes",SKY Sports Premier HD
+https://bgtv.xyz/play/2-802.php?idch=900.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"group-title="Deportes",TNT Sports
+https://bgtv.xyz/play/2-802.php?idch=509.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png"group-title="Deportes",TNT Sports Chile
+https://bgtv.xyz/play/2-802.php?idch=906.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"group-title="Deportes",TruTV
+https://bgtv.xyz/play/2-802.php?idch=96.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png"group-title="Deportes",TruTv HD
+https://bgtv.xyz/play/2-802.php?idch=501.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",TUDN
+https://bgtv.xyz/play/2-802.php?idch=698.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",TUDN (Pocos Datos)
+https://bgtv.xyz/play/2-802.php?idch=822.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",TUDN HD
+https://bgtv.xyz/play/2-802.php?idch=801.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",TUDN Op. 2
+https://bgtv.xyz/play/2-802.php?idch=997.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",TUDN USA HD
+https://bgtv.xyz/play/2-802.php?idch=86.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"group-title="Deportes",Tyc Sports
+https://bgtv.xyz/play/2-802.php?idch=274.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png"group-title="Deportes",Tyc Sports Op. 2
+https://bgtv.xyz/play/2-802.php?idch=1538.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png"group-title="Deportes",UFC Network
+https://bgtv.xyz/play/2-802.php?idch=97.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisionH- DEPORTES.png"group-title="Deportes",Univisión H- DEPORTES
+https://bgtv.xyz/play/2-802.php?idch=373.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png"group-title="Deportes",Univisión TDN
+https://bgtv.xyz/play/2-802.php?idch=100.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"group-title="Deportes",Win Sports
+https://bgtv.xyz/play/2-802.php?idch=292.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"group-title="Deportes",Win Sports +
+https://bgtv.xyz/play/2-802.php?idch=881.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png"group-title="Deportes",Win Sports + HD
+https://bgtv.xyz/play/2-802.php?idch=802.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png"group-title="Deportes",Win Sports HD
+https://bgtv.xyz/play/2-802.php?idch=754.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png"group-title="Deportes",WWE Network
+https://bgtv.xyz/play/2-802.php?idch=276.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png"group-title="Deportes",Zona TUDN
+https://bgtv.xyz/play/2-802.php?idch=956.m3u8
