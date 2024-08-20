@@ -471,6 +471,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc42
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/themoviedb.org/t/p/w780/iOYZbQA4wiMHoVSECQfZSvny6Nw.jpg"group-title="On Demand"provider="Activo",A REALLY HAUNTED LOUD HOUSE
 http://208.88.245.85/nuevo/una.verdadera.familiaembrujada.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Union_2024_film_poster.jpg"group-title="On Demand"provider="Activo",The Union
+http://127.0.0.1:11470/e23e5bf3bf22ad9eaab5d4b29fa8ccdcc42736c4/0
 #EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/abigail/images/regions/ca/share.jpg"group-title="On Demand"provider="Activo",ABIGAIL
 https://www.polimor.club/movies/abigail.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KMClMRWUMto/maxresdefault.jpg"group-title="On Demand"provider="Activo",ACENSO AL LIMITE
