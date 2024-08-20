@@ -1007,3 +1007,5 @@ https://bgtv.xyz/play/2-802.php?idch=802.m3u8
 https://bgtv.xyz/play/2-802.php?idch=754.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png"group-title="Deportes"provider="Activo",WWE Network
 https://bgtv.xyz/play/2-802.php?idch=276.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG"group-title="Radio"provider="Activo",La Cien
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724186584/ei/eKvEZr6-IO2Z4dUPr7eLiAs/ip/190.245.100.112/id/s5BOoFp_H6A.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9vaSc2kCMP57-5BDKXXjgfyeEQiHLTzPVBSGbOo9KmIj8JIoz5heHd93Gqs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMb-Iin4wyL6GSfj_lCuJOzSSEvuI3SMIxMOb9s54BASAiALw8k34JMhYPOJSHQZPknSgC39zzRxF_-okoyg_-lA8g%3D%3D/file/index.m3u8
