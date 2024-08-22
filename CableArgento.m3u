@@ -250,13 +250,13 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png"group-title="General"provider="Activo",Canal 5 Tucumán (480p)
 https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lMcBfz.png"group-title="General"provider="Activo",Canal 6 ERTV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
+https://ythls.kekikakademi.org/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TefE4HC.png"group-title="General"provider="Activo",Canal 6 Moreno (720p) [Not 24/7]
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OamBiS5.png"group-title="General"provider="Activo",Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-7-chubut-ar.png"group-title="General"provider="Activo",Canal 7 Chubut (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
+https://ythls.kekikakademi.org/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png"group-title="General"provider="Activo",Canal 7 Jujuy (720p)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png"group-title="General"provider="Activo",Canal 7 Neuquén (1080p)
@@ -266,11 +266,11 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJMH0UK.png"group-title="General"provider="Activo",Canal 7 Santiago del Estero (720p)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj"group-title="General"provider="Activo",Canal 8 San Juan (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+https://ythls.kekikakademi.org/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png"group-title="General"provider="Activo",Canal 9 Litoral (720p)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNURpai.png"group-title="General"provider="Activo",Canal de la Ciudad (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+https://ythls.kekikakademi.org/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXHHtcb.png"group-title="General"provider="Activo",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"group-title="General"provider="Activo",Canal U (720p)
@@ -290,9 +290,9 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2ldYVd.jpg"group-title="General"provider="Activo",Eco TV (720p)
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HfyKPpD.png"group-title="General"provider="Activo",El Doce (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+https://ythls.kekikakademi.org/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png"group-title="General"provider="Activo",El Ocho (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+https://ythls.kekikakademi.org/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cp3LMzV.png"group-title="General"provider="Activo",El SelloTV Madariaga (720p)
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2r7IeQ.png"group-title="General"provider="Activo",La Voz de Tucumán (480p)
@@ -338,7 +338,7 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zbR9qhb/descarga.jpg"group-title="General"provider="Activo",Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png"group-title="General"provider="Activo",Telefe Rosario (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+https://ythls.kekikakademi.org/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5X8gdCv.png"group-title="General"provider="Activo",TeleJunín (576p)
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqXORkt.png"group-title="General"provider="Activo",Telenord Corrientes (1080p) [Not 24/7]
@@ -434,33 +434,33 @@ http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/60516.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L9KCdTX.png"group-title="Música"provider="Activo",Radio Realpolitik (720p)
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RWL10TG.png"group-title="Música"provider="Activo",Vorterix (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+https://ythls.kekikakademi.org/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png"group-title="Noticias"provider="Activo",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png"group-title="Noticias"provider="Activo",A24 (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+https://ythls.kekikakademi.org/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJmzwv9.png"group-title="Noticias"provider="Activo",América Tucumán (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+https://ythls.kekikakademi.org/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/C5N_%282017%29.png/606px-C5N_%282017%29.png"group-title="Noticias"provider="Activo",C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+https://ythls.kekikakademi.org/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png"group-title="Noticias"provider="Activo",CANAL 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+https://ythls.kekikakademi.org/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gy7AEfO.png"group-title="Noticias"provider="Activo",Chacra TV (480p) [Not 24/7]
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"group-title="Noticias"provider="Activo",CNN Español
 http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/58770.m3u8
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/c/4/csm_16017-1639_import_66f9687b4e.png"group-title="Noticias"provider="Activo",Cronica Tv
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+https://ythls.kekikakademi.org/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png?20190331025725"group-title="Noticias"provider="Activo",TN
-https://ythls.armelin.one/video/cb12KmMMDJA.m3u8
+https://ythls.kekikakademi.org/video/cb12KmMMDJA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UscKOIc.png"group-title="Noticias"provider="Activo",Diputados TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+https://ythls.kekikakademi.org/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png"group-title="Noticias"provider="Activo",El Once (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
+https://ythls.kekikakademi.org/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg"group-title="Noticias"provider="Activo",EPS TV Canal 5 (720p)
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gj1kqH5.png"group-title="Noticias"provider="Activo",La Nación+ (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+https://ythls.kekikakademi.org/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/boOwYKj.png"group-title="Novelas"provider="Activo",Pluto TV Novelas Drama (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJnHkEm.png"group-title="Novelas"provider="Activo",Pluto TV Novelas Thriller (720p)
