@@ -452,7 +452,7 @@ http://shashe.dianshiwang.vip:27000/live/vxvmedia/DsNUWmpIqq/58770.m3u8
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/_processed_/c/4/csm_16017-1639_import_66f9687b4e.png"group-title="Noticias"provider="Activo",Cronica Tv
 https://ythls.kekikakademi.org/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png?20190331025725"group-title="Noticias"provider="Activo",TN
-https://ythls.kekikakademi.org/video/cb12KmMMDJA.m3u8
+https://ythls.kekikakademi.org/youtube/video/cb12KmMMDJA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UscKOIc.png"group-title="Noticias"provider="Activo",Diputados TV (1080p) [Not 24/7]
 https://ythls.kekikakademi.org/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sm2oUGF.png"group-title="Noticias"provider="Activo",El Once (1080p) [Not 24/7]
@@ -1170,7 +1170,7 @@ https://ythls.kekikakademi.org/youtube/video/s5BOoFp_H6A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/LuzuTV.png"group-title="Radio"provider="Activo",Luzu
 https://ythls.kekikakademi.org/youtube/video/PIeWWw_Riks.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/el-logo-de-olga-el-nuevo-canal-de-streaming-que-XBRSBJMYR5HWLE3HRSKKUZOVZE.jpg?auth=3f1be6cb3ad9ac8a64013e5a1b7d94da07f059969306294b34bb4b1aa4cbd2db&width=780&height=520&quality=70&smart=true"group-title="Radio"provider="Activo",Olga
-https://ythls.kekikakademi.org/youtube/video/xOIM5HNnmYw.m3u8
+https://ythls.kekikakademi.org/channel/olgaenvivo_.m3u8
 #EXTINF:-1 tvg-logo="https://kuarzo.com/wp-content/uploads/2023/04/Group-63-1.jpg"group-title="Radio"provider="Activo",Urbana
 https://ythls.kekikakademi.org/youtube/video/QhI_Brm2p4M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Radio_La_Red_AM_910.png/200px-Radio_La_Red_AM_910.png"group-title="Radio"provider="Activo",La Red
